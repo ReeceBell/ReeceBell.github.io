@@ -13,8 +13,8 @@ flex-wrap:wrap;
 .assignment {
     width:21%;
     padding:10px;
-    margin-bottom: 30px;
     margin:10px;
+    margin-bottom: 30px;
     background:lightblue;
     border-radius: 5px;
 }
